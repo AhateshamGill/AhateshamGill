@@ -1,5 +1,5 @@
 
-![logo](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?size=626&ext=jpg&uid=R110238725&ga=GA1.2.883419285.1691776174&semt=ais)
+![logo](https://github.com/AhateshamGill/AhateshamGill/blob/main/AHATESHAMGILL.png)
 <h1 align="center">Hi 👋, I'm AhateshamGill</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
