@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AhateshamGill/AhateshamGill/blob/main/AHATESHAMGILL.png)
+![logo](https://github.com/AhateshamGill/AhateshamGill/blob/main/159Z_2107.w026.n002.628B.p1.628.jpg)
 <h1 align="center">Hi 👋, I'm AhateshamGill</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
